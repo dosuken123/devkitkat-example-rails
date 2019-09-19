@@ -1,0 +1,1 @@
+# michi-example-rails
